@@ -1,11 +1,11 @@
 Как создать ветку
-    $  git branch name
+        $  git branch name
 
 Переходим в ветку
-    $ git checkout name
+        $ git checkout name
 
 После коммита версии ветки пушим её на сервер
-    $ git push
+        $ git push
 
 Но у ветки нужно указать происхождение, поэтому добавляем
-    $ git push --set-upstream origin name
+        $ git push --set-upstream origin name
